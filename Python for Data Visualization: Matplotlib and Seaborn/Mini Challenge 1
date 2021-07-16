@@ -1,0 +1,5 @@
+stock_df.plot(x = 'Date', y = 'NFLX', label = 'Netflix Stock Price', figsize = (15, 10), linewidth = 5, color = 'red')
+plt.ylabel('Price [$]')
+plt.title('My second plotting exercise')
+plt.legend(loc = 'upper right')
+plt.grid()
