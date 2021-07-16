@@ -1,0 +1,5 @@
+stock_df.plot(x = 'Date', y = ['NFLX', 'FB', 'TWTR'], figsize = (18, 10), linewidth = 3)
+plt.ylabel('Price ($)')
+plt.title('Stock Prices')
+plt.legend(loc = 'upper center')
+plt.grid()
