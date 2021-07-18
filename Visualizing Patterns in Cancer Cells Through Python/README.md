@@ -20,9 +20,9 @@ of cancerous cells outnumbering the number of noncancerous cells.
 ----
 **Final Comments**
 
-The main takeaways from this project are that first, there are more malignant cells than benign cells in a sample of cancerous tissue. This is backed up by concrete scientific evidence, as breast cancer is widely known for being a cancer that spreads quickly. As a result, cancerous tissue would contain a higher volume of malignant cells, in comparision to benign cells.
+The main takeaways from this project are that first, there are more malignant cells than benign cells in a sample of cancerous tissue. This is backed up by concrete scientific evidence, as breast cancer is widely known for being a type of cancer that spreads quickly. As a result, cancerous tissue would contain a higher volume of malignant cells, in comparison  to benign cells.
 
-The next main takeaway is that benign cells are significantly larger than malignant cells. However, there is also more deviation when it comes to the size of the benign cells. The range of sizes for benign cells are twice that of for malignant cells. The graph displaying the relationship between benign and malignant cells when looking at cell radius has a very similar shape to the Maxwell-Boltzmann Distribution.
+The next main takeaway is that benign cells are significantly larger than malignant cells. However, there is also more deviation when it comes to the size of the benign cells. The range of sizes for benign cells is twice that of malignant cells. The graph displaying the relationship between benign and malignant cells when looking at cell radius has a very similar shape to the Maxwell-Boltzmann Distribution.
 
 ----
 
