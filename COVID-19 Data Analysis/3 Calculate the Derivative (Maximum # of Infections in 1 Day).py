@@ -1,4 +1,4 @@
-# Max # of infections in 1 day
+# Max number of infections in 1 day
 df_covid.loc['China'].diff().max()
 df_covid.loc['Italy'].diff().max()
 df_covid.loc['US'].diff().max()
