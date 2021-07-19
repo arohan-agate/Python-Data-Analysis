@@ -1,3 +1,4 @@
+# displays the number of confirmed cases every day over a 3 month period
 df_covid.loc['China'].plot()
 df_covid.loc['Italy'].plot()
 df_covid.loc['US'].plot()
